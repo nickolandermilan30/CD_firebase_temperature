@@ -13,7 +13,7 @@
         android:layout_height="65dp"
         android:elevation="10dp"
         android:fontFamily="@font/yatra_one"
-        android:text="Root Farm"
+        android:text="Crop DOc"
         android:textAlignment="center"
         android:textAllCaps="true"
         android:textColor="@color/dark_green"
