@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "961836010125",
+    "firebase_url": "https://crops-fa41b-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "crops-fa41b",
+    "storage_bucket": "crops-fa41b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961836010125:android:6078233b2ac9f1bf12b0c4",
+        "android_client_info": {
+          "package_name": "com.example.cropdetectionapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0ROfE34xprtSyf3RVTUqD8hxV2N3SH2M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
