@@ -133,7 +133,7 @@
         android:layout_height="76dp"
         android:fontFamily="@font/bebas_neue"
         android:gravity="center|left"
-        android:text="Yellow Vein Mosaic Virus"
+        android:text="Leaf spot"
         android:textSize="27sp"
         app:layout_constraintBottom_toBottomOf="@+id/imageView4"
         app:layout_constraintEnd_toEndOf="parent"
